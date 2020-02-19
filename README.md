@@ -3,7 +3,7 @@
 Code for the paper : ANALYSIS OF MULTI FIELD OF VIEW CNN AND ATTENTION
 CNN ON H&E STAINED WHOLE-SLIDE IMAGES ON HEPATOCELLULAR CARCINOMA
 
-Full Paper : https://drive.google.com/open?id=1AQTnic4ZvNU431DyYPphshVZgEPuLuc5
+
 
 Codes are provided in order to represent CNN Architectures since they require more than an explanation. Architectures targets 2 and 3 field of view and codes are adjusted according to that. 
 Data loading systems are generally differ, thus only the code for architectures are published.
